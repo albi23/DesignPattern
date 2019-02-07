@@ -1,0 +1,5 @@
+Tworzysz aplikację dla domu maklerskiego. Aplikacja ma wysyłać powiadomienia o
+istotnych zmianach cen akcji do wszystkich zainteresowanych klientów.
+Klienci mogą w dowolnej chwili zapisać się na listę zainteresowanych akcjami danej spółki i wypisać się z niej.
+Ponadto klienci mog¡ być indywidualni (jedna osoba) i instytucjonalni (wiele osób).
+Zaproponuj rozwi¡zanie oparte na Observer i Composite.

@@ -1,0 +1,6 @@
+Wykorzystaj wzorzec Chain of responsibility do oporogramownia metody wypłaty
+pieniędzy z bankomatu. Zakładamy, że z bankomatu można wypłacić następujące nominały:
+100PLN, 50PLN, 20PLN oraz 10PLN. Klient musi podać kwotę, którą chce wypłacić (musi
+ona być podzielna przez 10). Następnie algorytm powinien podać ile jakich nominałów klient
+powinien dostać. Przykładowo wprowadzenie kwoty 190PLN skutkuje otrzymaniem jednego
+banknotu 100PLN, jednego 50PLN oraz dwóch 20PLN.
